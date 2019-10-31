@@ -103,7 +103,6 @@ public class Test<baseUrl> {
 
         //Get the list of window handles
         ArrayList tabs = new ArrayList (driver.getWindowHandles());
-        System.out.println("Dupa size: "+tabs);
         driver.switchTo().window((String) tabs.get(1));
 
         //Check the Page Title
