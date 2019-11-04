@@ -1,0 +1,76 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="FullRegression" verbose="1" >
+  <test name="Book_WithAllData">
+    <classes>
+      <class name="tests.Book_WithAllData"/>
+    </classes>
+  </test>
+
+  <test name="Book_WithExpiredCard">
+    <classes>
+      <class name="tests.Book_WithExpiredCard"/>
+    </classes>
+  </test>
+
+  <test name="Book_Without_BookingInfo">
+    <classes>
+      <class name="tests.Book_Without_BookingInfo"/>
+    </classes>
+  </test>
+
+  <test name="Book_Without_Country">
+    <classes>
+      <class name="tests.Book_Without_Country"/>
+    </classes>
+  </test>
+
+  <test name="Book_Without_FirstName">
+    <classes>
+      <class name="tests.Book_Without_FirstName"/>
+    </classes>
+  </test>
+
+  <test name="Book_Without_LastName">
+    <classes>
+      <class name="tests.Book_Without_LastName"/>
+    </classes>
+  </test>
+
+  <test name="Book_Without_PaymentsDetails">
+    <classes>
+      <class name="tests.Book_Without_PaymentsDetails"/>
+    </classes>
+  </test>
+
+  <test name="Book_Without_PhoneNumber">
+    <classes>
+      <class name="tests.Book_Without_PhoneNumber"/>
+    </classes>
+  </test>
+
+  <test name="Book_Without_SecurityCode">
+    <classes>
+      <class name="tests.Book_Without_SecurityCode"/>
+    </classes>
+  </test>
+
+  <test name="Book_WithoutAnyData">
+    <classes>
+      <class name="tests.Book_WithoutAnyData"/>
+    </classes>
+  </test>
+
+  <test name="Book_Wrong_CardNumber">
+    <classes>
+      <class name="tests.Book_Wrong_CardNumber"/>
+    </classes>
+  </test>
+
+  <test name="Book_Wrong_Email">
+    <classes>
+      <class name="tests.Book_Wrong_Email"/>
+    </classes>
+  </test>
+
+</suite>

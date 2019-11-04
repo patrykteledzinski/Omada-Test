@@ -2,8 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c905d47-5d90-40bf-9520-af678c0c4a84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Book_WithAllData.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Book_WithExpiredCard.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Book_WithoutAnyData.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Book_Without_BookingInfo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Book_Without_Country.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Book_Without_FirstName.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Book_Without_LastName.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Book_Without_PaymentsDetails.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Book_Without_PhoneNumber.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Book_Without_SecurityCode.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Book_Wrong_CardNumber.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Book_Wrong_Email.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Booking_Room.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullRegression.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Book_WithAllData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Book_WithExpiredCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Book_WithoutAnyData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Book_Without_BookingInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Book_Without_Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Book_Without_FirstName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Book_Without_LastName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Book_Without_PaymentsDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Book_Without_PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Book_Without_SecurityCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Book_Wrong_CardNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Book_Wrong_Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/ExampleHotelPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/Test.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -13,70 +46,94 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1630663526">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.60" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="4" />
-          <entry key="pom" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="4" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="15" />
-          <entry key="java" value="1554" />
-          <entry key="txt" value="8" />
-          <entry key="xml" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1554" />
-          <entry key="PLAIN_TEXT" value="23" />
-          <entry key="XML" value="5" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="23" column="106" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="106" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/Book_Without_PaymentsDetails.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="35" column="43" lean-forward="true" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/Book_Without_PhoneNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="688">
+              <caret line="98" column="26" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/Book_Without_SecurityCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="722">
+              <caret line="99" column="26" selection-start-line="99" selection-start-column="26" selection-end-line="99" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/Book_Wrong_CardNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="722">
+              <caret line="98" column="26" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/Book_Wrong_Email.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/Book_WithAllData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/ExampleHotelPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/Book_WithoutAnyData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/template.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="21" selection-start-line="21" selection-end-line="22" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -90,6 +147,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tr</find>
+      <find>do</find>
+      <find>aler</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -97,12 +161,45 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/Test.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pageObjects/TemplatePOP.java" />
         <option value="$PROJECT_DIR$/src/main/java/pageObjects/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/TestChrome.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/TestFirefox.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Book_WithAllData2.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Book_WithoutAllData.java" />
+        <option value="$PROJECT_DIR$/Book_WithExpiredCard.xml" />
+        <option value="$PROJECT_DIR$/Book_Without_BookingInfo.xml" />
+        <option value="$PROJECT_DIR$/Book_WithAllData.xml" />
+        <option value="$PROJECT_DIR$/AllTests.xml" />
+        <option value="$PROJECT_DIR$/Booking_Room.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pageObjects/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Booking_Room.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Booking_Room_All_Tests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Book_Without_LastName.java" />
+        <option value="$PROJECT_DIR$/test.xml" />
+        <option value="$PROJECT_DIR$/Book_Without_FirstName.xml" />
+        <option value="$PROJECT_DIR$/Book_Without_PaymentsDetails.xml" />
+        <option value="$PROJECT_DIR$/Book_Without_LastName.xml" />
+        <option value="$PROJECT_DIR$/Book_Without_PhoneNumber.xml" />
+        <option value="$PROJECT_DIR$/Book_Without_SecurityCode.xml" />
+        <option value="$PROJECT_DIR$/Book_WithoutAnyData.xml" />
+        <option value="$PROJECT_DIR$/Book_Wrong_CardNumber.xml" />
+        <option value="$PROJECT_DIR$/Book_Wrong_Email.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Book_WithAllData.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Book_WithExpiredCard.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Book_Without_BookingInfo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Book_Without_Country.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Book_Without_FirstName.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Book_Without_PhoneNumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Book_Without_SecurityCode.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Book_Wrong_CardNumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Book_Wrong_Email.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pageObjects/ExampleHotelPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Book_WithoutAnyData.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/template.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Book_Without_PaymentsDetails.java" />
       </list>
     </option>
   </component>
@@ -113,9 +210,25 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Template" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Template" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
-    <option name="y" value="-359" />
+    <option name="x" value="335" />
+    <option name="y" value="-10" />
     <option name="width" value="1296" />
     <option name="height" value="1000" />
   </component>
@@ -126,56 +239,47 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Template" type="462c0819:PsiDirectoryNode" />
+              <item name="iPresence" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPresence" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Template" type="462c0819:PsiDirectoryNode" />
+              <item name="iPresence" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPresence" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Template" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Template" type="462c0819:PsiDirectoryNode" />
+              <item name="iPresence" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPresence" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Template" type="462c0819:PsiDirectoryNode" />
+              <item name="iPresence" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPresence" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pageObjects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Template" type="462c0819:PsiDirectoryNode" />
+              <item name="iPresence" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPresence" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Template" type="462c0819:PsiDirectoryNode" />
+              <item name="iPresence" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPresence" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Template" type="462c0819:PsiDirectoryNode" />
+              <item name="iPresence" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iPresence" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -185,22 +289,28 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572869930530" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
-    <property name="last_opened_file_path" value="C:/selenium" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="tests" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projekty\Template\src\main\java\pageObjects" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pageObjects" />
+      <recent name="tests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projekty\iPresence" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -215,8 +325,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Test">
-    <configuration name="Test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Book_Without_PaymentsDetails.Test">
+    <configuration name="Book_WithAllData" type="TestNG" nameIsGenerated="true">
+      <module name="Template" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Book_WithAllData" />
+      <option name="GROUP_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Book_WithAllData" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Template" />
       <extension name="coverage">
         <pattern>
@@ -225,14 +353,126 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.Test" />
+      <option name="MAIN_CLASS_NAME" value="tests.Book_WithAllData" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFirefox" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
+    <configuration name="Book_WithAllData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Book_WithAllData" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Book_WithAllData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Book_WithAllData" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Book_WithoutAnyData (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Book_WithoutAnyData" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Book_WithoutAnyData.Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Book_WithoutAnyData" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Book_Without_LastName.Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Book_Without_LastName" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Book_Without_PaymentsDetails.Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Book_Without_PaymentsDetails" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/projekty/iPresence/FullRegression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Template" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/FullRegression.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFirefox" type="TestNG" nameIsGenerated="true">
       <module name="Template" />
       <extension name="coverage">
         <pattern>
@@ -256,41 +496,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFirefox" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Template" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.TestFirefox" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestFirefox.BaseTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Template" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.TestFirefox" />
-      <option name="METHOD_NAME" value="BaseTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestFirefox.Test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestFirefox" type="TestNG" nameIsGenerated="true">
       <module name="Template" />
       <extension name="coverage">
         <pattern>
@@ -299,37 +505,15 @@
         </pattern>
       </extension>
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="tests" />
+      <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="tests.TestFirefox" />
-      <option name="METHOD_NAME" value="Test" />
       <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
       </option>
       <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners>
-        <listener class="com.codeborne.selenide.testng.ScreenShooter" />
-      </listeners>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestFirefox.setup" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Template" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.TestFirefox" />
-      <option name="METHOD_NAME" value="setup" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -338,18 +522,20 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.TestFirefox" />
-      <item itemvalue="TestNG.Test" />
-      <item itemvalue="TestNG.TestFirefox.setup" />
-      <item itemvalue="TestNG.TestFirefox.BaseTest" />
-      <item itemvalue="TestNG.TestFirefox.Test" />
+      <item itemvalue="TestNG.Book_WithAllData" />
+      <item itemvalue="TestNG.Book_WithoutAnyData.Test" />
+      <item itemvalue="TestNG.Book_Without_LastName.Test" />
+      <item itemvalue="TestNG.C:/projekty/iPresence/FullRegression.xml" />
+      <item itemvalue="TestNG.Book_WithoutAnyData (1)" />
+      <item itemvalue="TestNG.Book_Without_PaymentsDetails.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Test" />
-        <item itemvalue="TestNG.TestFirefox.Test" />
-        <item itemvalue="TestNG.TestFirefox.setup" />
-        <item itemvalue="TestNG.TestFirefox.BaseTest" />
-        <item itemvalue="TestNG.TestFirefox" />
+        <item itemvalue="TestNG.Book_Without_PaymentsDetails.Test" />
+        <item itemvalue="TestNG.Book_WithoutAnyData (1)" />
+        <item itemvalue="TestNG.C:/projekty/iPresence/FullRegression.xml" />
+        <item itemvalue="TestNG.Book_Without_LastName.Test" />
+        <item itemvalue="TestNG.Book_WithoutAnyData.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -375,35 +561,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test - 2019.10.30 at 18h 28m 15s.xml">
-      <configuration name="Test" configurationId="TestNG" />
+    <history-entry file="Booking_Room - 2019.11.04 at 10h 41m 22s.xml">
+      <configuration name="Booking_Room" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Test - 2019.10.30 at 18h 30m 12s.xml">
-      <configuration name="Test" configurationId="TestNG" />
+    <history-entry file="C__projekty_iPresence_test_xml - 2019.11.04 at 10h 54m 44s.xml">
+      <configuration name="C:/projekty/iPresence/test.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Test - 2019.10.30 at 18h 30m 56s.xml">
-      <configuration name="Test" configurationId="TestNG" />
+    <history-entry file="C__projekty_iPresence_test_xml - 2019.11.04 at 11h 08m 11s.xml">
+      <configuration name="C:/projekty/iPresence/test.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Test - 2019.10.30 at 18h 33m 25s.xml">
-      <configuration name="Test" configurationId="TestNG" />
+    <history-entry file="Book_WithoutAnyData - 2019.11.04 at 11h 10m 25s.xml">
+      <configuration name="Book_WithoutAnyData" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Test - 2019.10.30 at 18h 34m 43s.xml">
-      <configuration name="Test" configurationId="TestNG" />
+    <history-entry file="Book_WithoutAnyData_Test - 2019.11.04 at 11h 14m 37s.xml">
+      <configuration name="Book_WithoutAnyData.Test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Test - 2019.10.30 at 18h 35m 52s.xml">
-      <configuration name="Test" configurationId="TestNG" />
+    <history-entry file="Book_Without_LastName_Test - 2019.11.04 at 11h 16m 05s.xml">
+      <configuration name="Book_Without_LastName.Test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Test - 2019.10.30 at 18h 36m 53s.xml">
-      <configuration name="Test" configurationId="TestNG" />
+    <history-entry file="Book_Without_LastName_Test - 2019.11.04 at 11h 17m 56s.xml">
+      <configuration name="Book_Without_LastName.Test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Test - 2019.10.30 at 18h 38m 01s.xml">
-      <configuration name="Test" configurationId="TestNG" />
+    <history-entry file="Book_Without_LastName_Test - 2019.11.04 at 11h 20m 16s.xml">
+      <configuration name="Book_Without_LastName.Test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestFirefox - 2019.10.30 at 18h 46m 31s.xml">
-      <configuration name="TestFirefox" configurationId="TestNG" />
+    <history-entry file="C__projekty_iPresence_FullRegression_xml - 2019.11.04 at 11h 28m 20s.xml">
+      <configuration name="C:/projekty/iPresence/FullRegression.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Test - 2019.10.30 at 18h 57m 53s.xml">
-      <configuration name="Test" configurationId="TestNG" />
+    <history-entry file="Book_WithoutAnyData_(1) - 2019.11.04 at 13h 08m 33s.xml">
+      <configuration name="Book_WithoutAnyData (1)" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -416,35 +602,37 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-359" width="1296" height="1000" extended-state="6" />
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.3625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.1391097" />
       <window_info id="Structure" order="1" sideWeight="0.5008606" side_tool="true" weight="0.37540454" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32995495" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919093" weight="0.24774775" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977476" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919093" visible="true" weight="0.24702059" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3290993" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49921876" weight="0.32882884" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50078124" side_tool="true" weight="0.32094595" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32882884" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32827735" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24140625" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.080683626" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Template" />
@@ -464,29 +652,250 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.pom" />
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestFirefox.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestChrome.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="1003">
+          <caret line="59" column="12" lean-forward="true" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/Book_WithoutAllData.xml" />
+    <entry file="file://$PROJECT_DIR$/Book_WithExpiredCard.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="106" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="106" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Test.java">
+    <entry file="file://$USER_HOME$/.IdeaIC2018.3/system/temp-testng-customsuite.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Book_Without_BookingInfo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Book_WithAllData.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Booking_Room.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FullRegression.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-339">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Book_Without_Country.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Book_Without_FirstName.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Book_Without_LastName.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Book_Without_PhoneNumber.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Book_Without_SecurityCode.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Book_WithoutAnyData.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Book_Wrong_CardNumber.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Book_Wrong_Email.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Book_Without_PaymentsDetails.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllTests.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Booking_Room_All_Tests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="994">
+          <caret line="616" column="32" selection-start-line="616" selection-start-column="16" selection-end-line="616" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Book_Without_LastName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="677">
+          <caret line="84" column="36" lean-forward="true" selection-start-line="84" selection-start-column="36" selection-end-line="84" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Book_WithExpiredCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="98" column="26" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Book_Without_BookingInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Book_Without_Country.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="95" column="26" selection-start-line="95" selection-start-column="26" selection-end-line="95" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Book_Without_FirstName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="98" column="26" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Book_Without_PhoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="98" column="26" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Book_Without_SecurityCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="99" column="26" selection-start-line="99" selection-start-column="26" selection-end-line="99" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Book_Wrong_CardNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="98" column="26" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Book_Wrong_Email.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="35" column="43" lean-forward="true" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Book_WithAllData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/ExampleHotelPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Book_WithoutAnyData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/template.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="21" selection-start-line="21" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Book_Without_PaymentsDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
@@ -530,7 +939,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
